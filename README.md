@@ -65,16 +65,19 @@ def sizing_report(path):
         
         #Save files
         wb.save(source_path+'Sizing_Report_' +str(d1)+'.xlsx')
-        
-##Generate Raport
+
+
+
+
+# Generate Raport
 sizing_report("C:/Users/my_name/Desktop/exe5/My_folder/")
 
 
-```
+
 
 # Contributor
 Veerachai Mitmorn (Vee)
 
-
+```
 
 
