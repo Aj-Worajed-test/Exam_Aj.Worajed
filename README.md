@@ -69,7 +69,7 @@ def sizing_report(path):
 
 
 
-# Generate Raport
+# Example Generate Raport
 sizing_report("C:/Users/my_name/Desktop/exe5/My_folder/")
 
 
