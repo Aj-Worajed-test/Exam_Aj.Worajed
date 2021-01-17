@@ -21,7 +21,6 @@
  - Press Enter button
 
 ## Output.
- - Program will zip all Directory in your spacific folder path.
  - Program will generate excel workbook(.xlsx) to your working folder path.File name is "Compare_Sizing_Report_" and endwith current date.Example : "Sizing_Report_17012021.xlsx"
 
 # Contributor
