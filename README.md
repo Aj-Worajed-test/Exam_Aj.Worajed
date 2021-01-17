@@ -13,7 +13,7 @@
 ## How to use.
  - open Exam6_Aj-Jed.py with IDLE (Python 3.8 64-bit)
  - Click tab "Run > Run module" or press F5
- - when Terminal shell appare and you see red arrow ">>" you can type "sizing_report"(Your folder path)" example : sizing_report("C:/Users/my_name/Desktop/exe5/My_folder/")
+ - when Terminal shell appare and you can see red arrow ">>" you can type "sizing_report"(Your folder path)".Example : sizing_report("C:/Users/my_name/Desktop/exe5/My_folder/")
  - Press Enter button
 
 ## Output.
