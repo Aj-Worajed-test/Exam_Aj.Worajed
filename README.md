@@ -10,7 +10,7 @@
 - pip install datetime
 
 ## How to install Library.
-- Open your cmd(You can open cmd by press window+R.you will see run window popup.you can type "cmd" and press enter.).Example : pip install openpyxl
+- Open your cmd(You can open cmd by press window+R.you will see run window popup.you can type "cmd" and press enter.).
 - When cmd window appear.You can type "pip install <your library>".Example "pip install openpyxl"
 - Press Enter
 
@@ -39,7 +39,7 @@
 - pip install zipfile
 
 ## How to install Library.
-- Open your cmd(You can open cmd by press window+R.you will see run window popup.you can type "cmd" and press enter.).Example : pip install openpyxl
+- Open your cmd(You can open cmd by press window+R.you will see run window popup.you can type "cmd" and press enter.).
 - When cmd window appear.You can type "pip install <your library>".Example "pip install openpyxl"
 - Press Enter
  
