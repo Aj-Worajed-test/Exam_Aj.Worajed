@@ -23,8 +23,7 @@
 ## Output.
  - Program will generate excel workbook(.xlsx) to your working folder path.File name is "Compare_Sizing_Report_" and endwith current date.Example : "Sizing_Report_17012021.xlsx"
 
-# Contributor
-Veerachai Mitmorn (Vee)
+
 
 
 # Exam6_Compare directory Report.
